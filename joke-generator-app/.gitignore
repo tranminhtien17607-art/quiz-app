@@ -1,0 +1,1 @@
+# Frontend\n.env.local\n.env.*.local\n/dist\n/build\n.DS_Store\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\n/node_modules\n
